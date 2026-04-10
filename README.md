@@ -21,3 +21,19 @@
    ```bash
    git clone [https://github.com/你的用户名/OKX-MACD-Monitor.git](https://github.com/你的用户名/OKX-MACD-Monitor.git)
    cd OKX-MACD-Monitor
+注意：安装依赖
+
+Bash
+pip install -r requirements.txt
+依赖包包括：ccxt, pandas, pandas_ta, pyttsx3, aiohttp，需要封装打包成exe文件；
+
+
+使用说明
+代理地址：如果你在某些墙国使用，请确保填写正确的本地代理端口（如 Clash 默认为 http://127.0.0.1:7897）。
+
+钉钉配置：在钉钉群机器人设置中开启“加签”校验，并将 Webhook 和 Secret 粘贴至对应输入框。
+
+交易对格式：使用大写，英文逗号分隔，例如 BTC/USDT,ETH/USDT。
+
+⚖️ 免责声明
+本工具仅供技术研究使用，不构成任何投资建议。市场有风险，量化需谨慎。
