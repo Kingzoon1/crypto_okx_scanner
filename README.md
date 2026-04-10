@@ -37,3 +37,6 @@ pip install -r requirements.txt
 
 ⚖️ 免责声明
 本工具仅供技术研究使用，不构成任何投资建议。市场有风险，量化需谨慎。
+“如果您通过此监控信号抓到了暴涨单，欢迎请作者喝杯咖啡，支持我持续维护算法！”
+Donate via Crypto:
+USDT (ERC20): 0xB7c7FA777704F3c32DcE578634c4538867e7048A
