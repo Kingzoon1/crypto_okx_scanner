@@ -18,9 +18,7 @@
 
 ## 🚀 快速开始
 1. **克隆项目**
-   ```bash
-   git clone [https://github.com/你的用户名/OKX-MACD-Monitor.git](https://github.com/你的用户名/OKX-MACD-Monitor.git)
-   cd OKX-MACD-Monitor
+   
 注意：安装依赖
 
 Bash
